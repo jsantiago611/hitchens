@@ -43,3 +43,11 @@
     font-stretch: normal;
     font-feature-settings: "liga", "kern";
   }
+
+  @font-face {
+    font-family: 'GT-Alpina';
+    src: url('#{$asset_url}/GT-Alpina-Standard-Regular.woff2') format('woff2');
+    font-style: normal;
+    font-stretch: normal;
+  }
+
