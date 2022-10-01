@@ -13,7 +13,7 @@
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.svg#EBGaramond') format('svg'); /* Legacy iOS */
 }
 
-@font-face {
+/*@font-face {
     font-family: 'Heldane Display';
     src: url('#{$asset_url}/fonts/HeldaneDisplayWeb-Regular.woff') format('woff');
     font-style: normal;
@@ -42,7 +42,7 @@
     font-style: italic;
     font-stretch: normal;
     font-feature-settings: "liga", "kern";
-  }
+  }*/
 
   @font-face {
     font-family: 'GT-Alpina';
