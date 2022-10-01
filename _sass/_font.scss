@@ -15,7 +15,7 @@
 
 @font-face {
     font-family: 'Heldane Display';
-    src: '#{$asset_url}/fonts/HeldaneDisplayWeb-Regular.woff') format('woff');
+    src: url('#{$asset_url}/fonts/HeldaneDisplayWeb-Regular.woff') format('woff');
     font-style: normal;
     font-stretch: normal;
     font-feature-settings: "liga", "kern";
