@@ -12,3 +12,35 @@
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
        url('#{$asset_url}/fonts/eb-garamond-v9-latin-regular.svg#EBGaramond') format('svg'); /* Legacy iOS */
 }
+
+@font-face {
+    font-family: 'Heldane Display';
+    src: '#{$asset_url}/fonts/HeldaneDisplayWeb-Regular.woff') format('woff');
+    font-style: normal;
+    font-stretch: normal;
+    font-feature-settings: "liga", "kern";
+    opacity: 0.8;
+  }
+  
+  @font-face {
+    font-family: 'Heldane Display';
+    src: url('#{$asset_url}/fonts/HeldaneDisplayWeb-RegularItalic.woff') format('woff');
+    font-style: italic;
+    font-stretch: normal;
+    font-feature-settings: "liga", "kern";
+  }
+  
+  @font-face {
+    font-family: 'Heldane Text';
+    src: url('#{$asset_url}/fonts/HeldaneTextWeb-Regular.woff') format('woff');
+    font-style: normal;
+    font-stretch: normal;
+    font-feature-settings: "liga", "kern";
+  }
+  @font-face {
+    font-family: 'Heldane Text';
+    src: url('#{$asset_url}/HeldaneTextWeb-RegularItalic.woff') format('woff');
+    font-style: italic;
+    font-stretch: normal;
+    font-feature-settings: "liga", "kern";
+  }
