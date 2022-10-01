@@ -11,9 +11,6 @@
     padding: 0 2rem;
     letter-spacing: -1px;
     line-height: 0.85;
-    font-family: 'Heldane Display';
-    font-feature-settings: 'liga', 'kern', 'ss10';
-    font-variant-numeric: oldstyle-nums;
     margin-bottom: 4rem;
     color: #fff2e8;
   @media (min-width: $on-tablet) {
@@ -29,8 +26,6 @@
     padding: 0 2rem;
     line-height: 1.3;
     font-style: italic;
-    font-family: 'Heldane display';
-    font-feature-settings: 'ss10';
   @media (min-width: $on-tablet) {
     font-size: 3em;
   }
