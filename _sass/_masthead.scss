@@ -15,7 +15,7 @@
     font-feature-settings: 'liga', 'kern', 'ss10';
     font-variant-numeric: oldstyle-nums;
     margin-bottom: 4rem;
-    font-style: italic;
+    color: #fff2e8;
   @media (min-width: $on-tablet) {
     font-size: 160px;
     letter-spacing: -4px;
@@ -23,11 +23,14 @@
 }
 
 .site-masthead h2 {
-    color: #64644B;
+    color: #ffb982;
     font-size: 1.25em;
     margin: 0;
     padding: 0 2rem;
     line-height: 1.3;
+    font-style: italic;
+    font-family: 'Heldane display';
+    font-feature-settings: 'ss10';
   @media (min-width: $on-tablet) {
     font-size: 3em;
   }
