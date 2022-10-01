@@ -38,7 +38,7 @@
   }
   @font-face {
     font-family: 'Heldane Text';
-    src: url('#{$asset_url}/HeldaneTextWeb-RegularItalic.woff') format('woff');
+    src: url('#{$asset_url}/fonts/HeldaneTextWeb-RegularItalic.woff') format('woff');
     font-style: italic;
     font-stretch: normal;
     font-feature-settings: "liga", "kern";
@@ -46,7 +46,7 @@
 
   @font-face {
     font-family: 'GT-Alpina';
-    src: url('#{$asset_url}/GT-Alpina-Standard-Regular.woff2') format('woff2');
+    src: url('#{$asset_url}/fonts/GT-Alpina-Standard-Regular.woff2') format('woff2');
     font-style: normal;
     font-stretch: normal;
   }
