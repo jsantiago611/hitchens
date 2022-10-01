@@ -5,17 +5,16 @@
 }
 
 .site-masthead h1 {
-    font-size: 3em;
+        font-size: 3em;
     margin-bottom: 0;
     margin-top: 1em;
     padding: 0 2rem;
-    letter-spacing: -1px;
+    letter-spacing: -4px;
     line-height: 0.85;
     margin-bottom: 4rem;
-      color: #283618;
-    text-transform: uppercase;
+    color: #283618;
   @media (min-width: $on-tablet) {
-    font-size: 6rem;
+    font-size: 6em;
   }
 }
 
